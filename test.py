@@ -6,3 +6,5 @@ z = x+y
 w = y-x
 print("The sume of numbers is:", z)
 print("The substration of numbers is:", w)
+
+ech "mera naam hai japani"
