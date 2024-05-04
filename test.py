@@ -7,4 +7,4 @@ w = y-x
 print("The sume of numbers is:", z)
 print("The substration of numbers is:", w)
 
-echo "mera naam hai japani"
+print("mera naam hai japani")
