@@ -7,4 +7,4 @@ w = y-x
 print("The sume of numbers is:", z)
 print("The substration of numbers is:", w)
 
-print("mera naam hai japani")
+print("How are you")
